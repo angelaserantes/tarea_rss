@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="0.91">
+<rss version="2.0">
    <channel>
       <title>Mi primer RSS</title>
       <link>https://git-scm.com/book/es/v2</link> <!-- dirección web en la que se encuentra nuestro RSS -->
-      <description>Gu&#237;a para conocer más sobre Git y Github</description>
+      <description>Gu&#237;a para conocer m&#225;s sobre Git y Github</description>
       <language>es-ES</language>
       <image>
-         <title>más sobre Git</title>
+         <title>m&#225;s sobre Git</title>
          <url>https://git-scm.com/book/en/v2/images/signup.png</url>
          <link>https://git-scm.com/book/es/v2</link>
          <width>128</width>
@@ -15,13 +15,13 @@
       <item>
          <title>creaci&#243;n y configuaraci&#243;n de la cuenta</title>
          <link>https://git-scm.com/book/es/v2/GitHub-Creaci%C3%B3n-y-configuraci%C3%B3n-de-la-cuenta</link>
-         <pubDate>Mon, 10 Mar 2022 00:00:00 GMT</pubDate>
+         <pubDate>Mon, 10 Feb 2023 00:00:00 GMT</pubDate>
          <description>Descripci&#243;n de como crear una cuenta</description>
       </item>
       <item>
          <title>Participando en proyectos</title>
          <link>https://git-scm.com/book/es/v2/GitHub-Participando-en-Proyectos</link>
-         <pubDate>Mon, 10 Mar 2022 01:00:00 GMT</pubDate>
+         <pubDate>Mon, 10 Feb 2023 01:00:00 GMT</pubDate>
          <description>Descripci&#243;n de como participar en proyectos</description>
       </item>
    </channel>
